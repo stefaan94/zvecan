@@ -1,0 +1,34 @@
+<rss version="2.0">
+<chanel>
+<item>
+<title>Početna</title>
+<link>index.html</link>
+<author>Stefan Milićević</author>
+<description>Sajt o Tvrdjavi Zvečan</description>
+</item>
+<item>
+<title>Galerija</title>
+<link>galerija.html</link>
+<author>Stefan Milićević</author>
+<description>Galerija slika</description>
+</item>
+<item>
+<title>Istorija</title>
+<link>istorija.html</link>
+<author>Stefan Milićević</author>
+<description>istorija</description>
+</item>
+<item>
+<title>Autor</title>
+<link>autor.html</link>
+<author>Stefan Milićević</author>
+<description>O autoru</description>
+</item>
+<item>
+<title>Registracija</title>
+<link>registracija.html</link>
+<author>Stefan Milićević</author>
+<description>registracija</description>
+</item>
+</chanel>
+</rss>
